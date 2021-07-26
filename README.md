@@ -3,12 +3,12 @@
 
 <!--for banner photo: Marianne North's painting from Kew--> 
 <param ve-config 
-       title="TAMARIND" 
+       title="TAMARIND SUBTITLE" 
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
        banner="" 
        layout="vertical">
 
-# Tamarind Taxonomy 
+# Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
 
 <param ve-image=””>
