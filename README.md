@@ -1,9 +1,8 @@
-# TAMARIND
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <!--for banner photo: Marianne North's painting from Kew--> 
 <param ve-config 
-       title="TAMARIND SUBTITLE" 
+       title="TAMARIND" 
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
        banner="" 
        layout="vertical">
