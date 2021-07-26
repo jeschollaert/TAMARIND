@@ -1,8 +1,17 @@
 # TAMARIND
-<!--Marianne North's painting from Kew--> 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+<!--for banner photo: Marianne North's painting from Kew--> 
+<param ve-config 
+       title="TAMARIND" 
+       author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
+       banner="" 
+       layout="vertical">
 
 # Tamarind Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
+
+<param ve-image=””>
 <!-- Spratt's Floral--> 
 
 From a taxonomic point of view, T. indica is considered the only species of the Tamarindus genus, though throughout history has been named by other synonyms which were believed to be different species. The concept of a taxonomic synonym refers to a name, which is not accepted, applying to the same taxon as the accepted name. In this particular case, synonyms are not accepted due to rejection of a classification represented by the synonym. <!--infographic hyperlink--> T. indica has six synonyms attached to the accepted name, being the most recurrent in the literature Tamarindus occidentalis Gaertn., which we can see referring to the “West Indian species”. The other synonyms are Tamarindus umbrosa Salisb., Tamarindus officinalis Hook., Tamarindus somalensis Mattei, and Tamarindus erythraeus Mattei.
@@ -13,7 +22,7 @@ From a taxonomic point of view, T. indica is considered the only species of the 
 
 This semi-evergreen species finds its vital requirements between 23º26’N and 23º26’S in the seasonal dry forests, the tropical seasonal forests and the savannas. The climate of this biome <!-- infographic hyperlink zonobiome II according to Walter’s classification--> is characterized by a slightly strong thermal oscillation and concentrated rains during a concrete period of the year, which implies a certain water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils —it is able to fixate nitrogen itself into the soil—  and endure aerosol salt from the wind coming from coastal areas.
 
-<!--visual of map-->
+<param ve-map center="" zoom="6">
 
 While the Tamarindus indica can be found in 54 countries, India is the world’s largest producer. Tamarind orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the twelfth century, though the oldest dated tree is 400 years old. Though widely cultivated in India, it remains underexploited and unimproved in Africa (Fandohan et al.) . Later on, it was also introduced in South America and the Antilles along the XVI-XVII century with the Spanish and Portuguese settlers.
 
