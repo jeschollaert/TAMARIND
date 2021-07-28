@@ -3,6 +3,8 @@
 <!--for banner photo: Marianne North's painting from Kew--> 
 <param ve-config 
        title="TAMARIND" 
+       eid=""
+       about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
        banner="" 
        layout="vertical">
