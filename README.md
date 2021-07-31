@@ -12,7 +12,10 @@
 # Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
 
-<param ve-iframe src="https://ia800405.us.archive.org/BookReader/BookReaderImages.php?id=b24923400_0002&itemPath=%2F0%2Fitems%2Fb24923400_0002&server=ia800405.us.archive.org&page=n95_w310"> 
+<param ve-image fit="contain" 
+       description="tamarindus indica"
+       license="public domain'
+       url="https://ia800405.us.archive.org/BookReader/BookReaderImages.php?id=b24923400_0002&itemPath=%2F0%2Fitems%2Fb24923400_0002&server=ia800405.us.archive.org&page=n95_w310"> 
 <!-- Spratt's Floral--> 
 
 From a taxonomic point of view, T. indica is considered the only species of the Tamarindus genus, though throughout history has been named by other synonyms which were believed to be different species. The concept of a taxonomic synonym refers to a name, which is not accepted, applying to the same taxon as the accepted name. In this particular case, synonyms are not accepted due to rejection of a classification represented by the synonym. <!--infographic hyperlink--> T. indica has six synonyms attached to the accepted name, being the most recurrent in the literature Tamarindus occidentalis Gaertn., which we can see referring to the “West Indian species”. The other synonyms are Tamarindus umbrosa Salisb., Tamarindus officinalis Hook., Tamarindus somalensis Mattei, and Tamarindus erythraeus Mattei.
