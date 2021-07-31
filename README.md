@@ -14,7 +14,7 @@ Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-w
 
 <param ve-iframe 
        src="https://www.archive.org/download/b24923400_0002/page/n95_w310"> 
-<!-- Spratt's Floral--> 
+<!-- Spratt's Floral, but how to center a BHL image file in the iframe tag?--> 
 
 From a taxonomic point of view, T. indica is considered the only species of the Tamarindus genus, though throughout history has been named by other synonyms which were believed to be different species. The concept of a taxonomic synonym refers to a name, which is not accepted, applying to the same taxon as the accepted name. In this particular case, synonyms are not accepted due to rejection of a classification represented by the synonym. <!--infographic hyperlink--> T. indica has six synonyms attached to the accepted name, being the most recurrent in the literature Tamarindus occidentalis Gaertn., which we can see referring to the “West Indian species”. The other synonyms are Tamarindus umbrosa Salisb., Tamarindus officinalis Hook., Tamarindus somalensis Mattei, and Tamarindus erythraeus Mattei.
 
@@ -40,6 +40,11 @@ Many parts of the tamarind tree—fruit, leaves, seeds, and bark—are edible in
 In Latin America,  for instance, the pulp is sweetened with sugar and added to water to create agua de tamarindo, a popular refreshing drink sold everywhere from restaurants to markets. Tamarind water, as both an enjoyable food and a medicinal drink, has been around at least since the late medieval period. In his Travel Account (1298), Marco Polo observes merchants being “force[d]...to swallow a stuff called Tamarindi, mixed in sea-water” that results in “violent purging” (2nd ed., ii. 383.) 
 
 In the early modern period, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his Theatrum botanicum (1640): “it doth exceedingly helpe to a[ss]uage the thir[s]t, if an ounce there-of be di[ss]olved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.” 
+
+<param ve-image 
+       description="Ye-nan-gyoung: Tamarind Tre, August 1855."
+       license="public domain?"
+       url="https://www.theguardian.com/artanddesign/gallery/2015/feb/23/burmese-days-glimpses-of-a-lost-kingdom-in-pictures#img-2"> 
 
 <!--tamarind tree as a whole tree; [Burmese Ye-nan-gyoung: Tamarind Tre, August 1855.]-->
 
