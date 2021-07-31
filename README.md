@@ -6,7 +6,7 @@
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/9/90/Marianne_North_Foliage_and_Fruit_of_the_Tamarind_and_Flowers_and_Fruit_of_the_Papaw_in_Java.jpg?size=150," 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/9/90/Marianne_North_Foliage_and_Fruit_of_the_Tamarind_and_Flowers_and_Fruit_of_the_Papaw_in_Java.jpg?size=pct50" 
        layout="vertical">
 
 # Taxonomy 
