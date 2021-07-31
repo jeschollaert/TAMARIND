@@ -12,7 +12,7 @@
 # Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
 
-<param ve-image fit="contain" 
+<param ve-image fit="cover" 
        description="tamarindus indica"
        license="public domain'
        url="https://ia800405.us.archive.org/BookReader/BookReaderImages.php?id=b24923400_0002&itemPath=%2F0%2Fitems%2Fb24923400_0002&server=ia800405.us.archive.org&page=n95_w310"> 
