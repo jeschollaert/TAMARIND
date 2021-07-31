@@ -14,6 +14,7 @@
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra).
 
 <param ve-image 
+       fit="contain"
        url="http://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_009033_fullsize.jpg">
        
 <!-- image credit: Tamarindus indica illustration - Tamarindus indica, copy of an illustration commissioned by William Roxburgh, watercolour on paper, by unknown Indian Artist, 19th century., Unknown Indian artist -->
@@ -45,6 +46,7 @@ In Latin America,  for instance, the pulp is sweetened with sugar and added to w
 In the early modern period, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his Theatrum botanicum (1640): “it doth exceedingly helpe to a[ss]uage the thir[s]t, if an ounce there-of be di[ss]olved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.” 
 
 <param ve-image
+       fit="cover"
        url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
 <!--African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
 Andrew McRobb, Digital Image © Board of Trustees, RBG Kew-->
@@ -56,7 +58,8 @@ Similarly, Mrs. A.C Carmichael, a Scottish migrant to the British West Indies an
 ### Seeds / Pods / Shells 
 The seeds can be eaten after they are soaked to remove the seed coat. They can then be roasted, boiled, fried, or ground (Nagendra; Azad).  In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870).  
 
-<param ve-image 
+<param ve-image
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
        
 <!--love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: 	The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
