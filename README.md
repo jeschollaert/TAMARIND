@@ -13,9 +13,11 @@
 # Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
 
-<param ve-iframe 
-       src="https://www.archive.org/download/b24923400_0002/page/n95_w310"> 
-<!-- Spratt's Floral, but how to center a BHL image file in the iframe tag?--> 
+<param ve-image 
+       url="http://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_009033_fullsize.jpg">
+<!-- image credit: Tamarindus indica illustration - Tamarindus indica, copy of an illustration commissioned by William Roxburgh, watercolour on paper, by unknown Indian Artist, 19th century., Unknown Indian artist -->
+<!-- originally had Spratt's Floral image here, but could not center a BHL image file in the iframe tag? <param ve-iframe 
+       src="https://www.archive.org/download/b24923400_0002/page/n95_w310">--> 
 
 From a taxonomic point of view, T. indica is considered the only species of the Tamarindus genus, though throughout history has been named by other synonyms which were believed to be different species. The concept of a taxonomic synonym refers to a name, which is not accepted, applying to the same taxon as the accepted name. In this particular case, synonyms are not accepted due to rejection of a classification represented by the synonym. <!--infographic hyperlink--> T. indica has six synonyms attached to the accepted name, being the most recurrent in the literature Tamarindus occidentalis Gaertn., which we can see referring to the “West Indian species”. The other synonyms are Tamarindus umbrosa Salisb., Tamarindus officinalis Hook., Tamarindus somalensis Mattei, and Tamarindus erythraeus Mattei.
 
