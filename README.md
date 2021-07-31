@@ -79,6 +79,11 @@ The leaves (along with young seedlings and the flowers) are made into chutneys, 
 
 ### Cookbooks
 
+thoughts on cookbooks - testing out Marianne North image despite low resolution 
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/9/90/Marianne_North_Foliage_and_Fruit_of_the_Tamarind_and_Flowers_and_Fruit_of_the_Papaw_in_Java.jpg">
+
 <!--traditional uses in cooking; colonial botany/economy; recent recipes; --> 
 
 ### References
