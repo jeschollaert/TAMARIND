@@ -8,6 +8,7 @@
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
        banner="https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG" 
        layout="vertical">
+<!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG -->
 
 # Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra)—.
@@ -28,7 +29,7 @@ This semi-evergreen species finds its vital requirements between 23º26’N and 
 
 While the Tamarindus indica can be found in 54 countries, India is the world’s largest producer. Tamarind orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the twelfth century, though the oldest dated tree is 400 years old. Though widely cultivated in India, it remains underexploited and unimproved in Africa (Fandohan et al.) . Later on, it was also introduced in South America and the Antilles along the XVI-XVII century with the Spanish and Portuguese settlers.
 
-<!-- British Library -- permissions? -- QUESTION FOR ASHLEY Mughal style tamarind tree-->
+<!-- British Library, Mughal style tamarind tree-->
 
 # Tamarind's Uses -- Food and Medicine 
 
@@ -43,8 +44,10 @@ In the early modern period, John Parkinson, apothecary to James I and Royal Bota
 
 <param ve-image
        url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
+<!--African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
+Andrew McRobb, Digital Image © Board of Trustees, RBG Kew-->
 
-<!--tamarind tree as a whole tree; [Burmese Ye-nan-gyoung: Tamarind Tre, August 1855.]-->
+<!--Could not get this image to load correctly:[Burmese Ye-nan-gyoung: Tamarind Tre, August 1855.]-->
 
 Similarly, Mrs. A.C Carmichael, a Scottish migrant to the British West Indies and wife of slave-owner John Wilson Carmichael, points out in Domestic manners and social condition of the white, coloured, and Negro population of the West Indies (1834) that the tamarind beverage is drank in ever-increasing quantities as settler-colonists spend more time in the tropics, resulting in more “relaxed constitution[s].” Carmichael is appalled when her own alimentary desires follow this shift: “During the first year I resided in St. Vincent, I never felt thirst between breakfast and dinner, unless I had walked or rode out during the heat of the day; but before I left the West Indies, I felt a great change in this respect, taking sometimes as many as six or seven large glasses of water in the forenoon. Upon the whole, indeed, the dangers of climate seem pretty nearly balanced between Great Britain and the West Indies: imprudent exposure to cold is dangerous in Britain, and the same exposure to heat is dangerous in the West Indies
 
@@ -57,13 +60,14 @@ The pods are picked at various stages in the fruits’ life cycle. The sour frui
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Five_Egyptian_trees_with_fruit%2C_including_the_tamarind%2C_mulb_Wellcome_V0043170.jpg">
+    <!--Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab. Line engraving, c. 1676.; https://commons.wikimedia.org/wiki/File:Five_Egyptian_trees_with_fruit,_including_the_tamarind,_mulb_Wellcome_V0043170.jpg-->
 
 # Leaves 
 The leaves (along with young seedlings and the flowers) are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Its vast crown gives the so needed shade in these latitudes and makes it perfect to gather around it. So, no wonder why in some cultures it has historically been considered a holy tree.  On the other hand, this multipurpose species has no specific threats so that it is currently classified in the Least Concern category of the IUCN Red List (iucnredlist.org). 
 
 <param ve-image
        url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
-<!--Hooker’s etching from Himalayan Journal (1848)-->
+<!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
 # Cookbooks?
 
