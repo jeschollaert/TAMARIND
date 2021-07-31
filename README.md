@@ -74,6 +74,7 @@ The pods are picked at various stages in the fruits’ life cycle. The sour frui
 The leaves (along with young seedlings and the flowers) are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Its vast crown gives the so needed shade in these latitudes and makes it perfect to gather around it. So, no wonder why in some cultures it has historically been considered a holy tree.  On the other hand, this multipurpose species has no specific threats so that it is currently classified in the Least Concern category of the IUCN Red List (iucnredlist.org). 
 
 <param ve-image
+       fit="contain"
        url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
