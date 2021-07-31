@@ -89,7 +89,7 @@ Paragraph 1
 
 Paragraph 2
 <param ve-iframe
-       src="https://archive.org/embed/b21528640/page/158 width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen">
+       src="https://archive.org/embed/b21528640/page/158/ width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen">
 
 thoughts on cookbooks - testing out Marianne North image despite low resolution 
 
