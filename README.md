@@ -6,7 +6,7 @@
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
-       banner="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD7_700-001.jpg" 
+       banner="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD7_700-001.jpg?size=150" 
        layout="vertical">
 
 # Taxonomy 
