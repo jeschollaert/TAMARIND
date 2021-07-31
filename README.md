@@ -57,9 +57,14 @@ The seeds can be eaten after they are soaked to remove the seed coat. They can t
 
 The pods are picked at various stages in the fruits’ life cycle. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.). 
 
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Five_Egyptian_trees_with_fruit%2C_including_the_tamarind%2C_mulb_Wellcome_V0043170.jpg">
+
 # Leaves 
 The leaves (along with young seedlings and the flowers) are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Its vast crown gives the so needed shade in these latitudes and makes it perfect to gather around it. So, no wonder why in some cultures it has historically been considered a holy tree.  On the other hand, this multipurpose species has no specific threats so that it is currently classified in the Least Concern category of the IUCN Red List (iucnredlist.org). 
 
+<param ve-image
+       url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848)-->
 
 # Cookbooks?
