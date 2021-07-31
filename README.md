@@ -10,6 +10,10 @@
        layout="vertical">
 <!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG -->
 
+### Introduction: A Sturdy Contradiction (title in progress) 
+
+paragraph goes here 
+
 ### Taxonomy 
 Tamarindus indica L., commonly known as Tamarind, is a grand and imposing hard-wooded tree belonging to the Fabaceae family. Easy recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group forming a dense and bushy head of branches, this species was first described by Carl Linnaeus in his work Species plantarum (1753) t1: 34. Its origin, nonetheless, remains a mystery: genetic studies point out towards Africa but it has been documented to inhabit India for many centuries —there is evidence of a wood charcoal analysis from around 1300 BC (Nagendra).
 
@@ -35,6 +39,7 @@ While the Tamarindus indica can be found in 54 countries, India is the world’s
 <!-- British Library, Mughal style tamarind tree-->
 
 ### Tamarind's Uses -- Food and Medicine 
+Tracing tamarind’s appearances in materia medica is one way to track the circulation of Ayurvedic medical knowledge through the peak of the British colonial expansion in India. Uday Chand Dutt, in the preface to his 1870 text The materia medica of the Hindus, wrote of his attempt to “compil[e] from the standard Sanskrit medical works, arranged somewhat upon the plan of Waring’s Manual of Therapeutic” and offer a medicinal treatise based on historic Indian knowledge (iii).
 
 Many parts of the tamarind tree—fruit, leaves, seeds, and bark—are edible in some form. <!--piecemeal through tree? OR image visualization -- different zooms --> Tamarind appears in various materia medica for its medicinal uses. Beyond its use as a drink to quench thirst, it is described as a “purging medicine,” (Bacon 1680s-1739), a laxative (Stephenson 1834), an aid in facial paralysis (Susruta transl. Bhishagratna 1907-1916) , and its role in making other more bitter or unpleasant medicines taste sweeter (Stephenson 1834).
 
@@ -85,21 +90,20 @@ The leaves (along with young seedlings and the flowers) are made into chutneys, 
 
 ### Cookbooks
 
-Paragraph 1
+Paragraph 1: Tamarind has been an economic and culinary crop of value for centuries.
 
-Paragraph 2
+Paragraph 2: Tamarind appears as an ingredient in many dishes in South Asian, East African, and West Indies cuisines. 
 <param ve-iframe
        src="https://archive.org/embed/b21528640/page/158/">
 
-thoughts on cookbooks - testing out Marianne North image despite low resolution 
+But just as tamarind has been weaponized in the colonization of culinary knowledge, it has also been used by people displaced by colonial regimes as an avenue to create community. The recent cookbook, In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries that Touch the Indian Ocean by Hawa Hassan and Julia Turshen. Tamarind appears most specifically in the cookbook’s section on South Africa, focused on the Cape Malay community, a community whose legacy originates in the bonds made by enslaved Indonesians forcibly brought to South Africa by the Dutch East India Co. (195). The grandmothers in this section shared a recipe for “Denningvleis,” a sweet and sour lamb stew.  Tamarind – either in pulp or paste form -- is now ubiquitous in grocery stores, restaurants, and recipes across the web. 
 
+! Testing out Marianne North image despite low resolution ! 
 <param ve-image
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/90/Marianne_North_Foliage_and_Fruit_of_the_Tamarind_and_Flowers_and_Fruit_of_the_Papaw_in_Java.jpg">
 
-<!--traditional uses in cooking; colonial botany/economy; recent recipes; --> 
-
-Conclusion 
+### Conclusion 
 
 ### References
 
