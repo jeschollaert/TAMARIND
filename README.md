@@ -55,6 +55,12 @@ Andrew McRobb, Digital Image © Board of Trustees, RBG Kew-->
 
 Similarly, Mrs. A.C Carmichael, a Scottish migrant to the British West Indies and wife of slave-owner John Wilson Carmichael, points out in Domestic manners and social condition of the white, coloured, and Negro population of the West Indies (1834) that the tamarind beverage is drank in ever-increasing quantities as settler-colonists spend more time in the tropics, resulting in more “relaxed constitution[s].” Carmichael is appalled when her own alimentary desires follow this shift: “During the first year I resided in St. Vincent, I never felt thirst between breakfast and dinner, unless I had walked or rode out during the heat of the day; but before I left the West Indies, I felt a great change in this respect, taking sometimes as many as six or seven large glasses of water in the forenoon. Upon the whole, indeed, the dangers of climate seem pretty nearly balanced between Great Britain and the West Indies: imprudent exposure to cold is dangerous in Britain, and the same exposure to heat is dangerous in the West Indies
 
+Tamarind water in the world today (draft) 
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/6/61/69_-_IMG_20160410_180814.jpg">
+      <!-- image credit: Tamarind juice, 10 April 2016, 18:08:18, Susan Slater, Taken at Asia SuperStore, Shinjuku, Japan (アジアスーパースト, 新宿) - permission received-->
+
 ### Seeds / Pods / Shells 
 The seeds can be eaten after they are soaked to remove the seed coat. They can then be roasted, boiled, fried, or ground (Nagendra; Azad).  In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870).  
 
