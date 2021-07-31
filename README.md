@@ -41,10 +41,8 @@ In Latin America,  for instance, the pulp is sweetened with sugar and added to w
 
 In the early modern period, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his Theatrum botanicum (1640): “it doth exceedingly helpe to a[ss]uage the thir[s]t, if an ounce there-of be di[ss]olved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.” 
 
-<param ve-image 
-       description="Ye-nan-gyoung: Tamarind Tre, August 1855."
-       license="public domain?"
-       url="https://www.theguardian.com/artanddesign/gallery/2015/feb/23/burmese-days-glimpses-of-a-lost-kingdom-in-pictures#img-2"> 
+<param ve-image
+       url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
 
 <!--tamarind tree as a whole tree; [Burmese Ye-nan-gyoung: Tamarind Tre, August 1855.]-->
 
