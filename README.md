@@ -52,7 +52,7 @@ In Latin America,  for instance, the pulp is sweetened with sugar and added to w
 In the early modern period, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his Theatrum botanicum (1640): “it doth exceedingly helpe to a[ss]uage the thir[s]t, if an ounce there-of be di[ss]olved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.” 
 
 <param ve-image
-       region="150,15,1600,1000"
+       fit="contain'
        url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
 <!--x, y, w, h / African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
 Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600-->
