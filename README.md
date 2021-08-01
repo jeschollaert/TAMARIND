@@ -53,7 +53,7 @@ In the early modern period, John Parkinson, apothecary to James I and Royal Bota
 
 <param ve-image
        fit="cover"
-       region="15,15,20,20"
+       region="15,185,200,185"
        url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
 <!--African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
 Andrew McRobb, Digital Image © Board of Trustees, RBG Kew-->
