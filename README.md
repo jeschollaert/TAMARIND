@@ -40,6 +40,7 @@ While the Tamarindus indica can be found in 54 countries, India is the world’s
 
 ### Tamarind's Uses -- Food and Medicine 
 Tracing tamarind’s appearances in materia medica is one way to track the circulation of Ayurvedic medical knowledge through the peak of the British colonial expansion in India. Uday Chand Dutt, in the preface to his 1870 text The materia medica of the Hindus, wrote of his attempt to “compil[e] from the standard Sanskrit medical works, arranged somewhat upon the plan of Waring’s Manual of Therapeutic” and offer a medicinal treatise based on historic Indian knowledge (iii).
+<param ve-knightlab-timeline source="" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 
 Many parts of the tamarind tree—fruit, leaves, seeds, and bark—are edible in some form. <!--piecemeal through tree? OR image visualization -- different zooms --> Tamarind appears in various materia medica for its medicinal uses. Beyond its use as a drink to quench thirst, it is described as a “purging medicine,” (Bacon 1680s-1739), a laxative (Stephenson 1834), an aid in facial paralysis (Susruta transl. Bhishagratna 1907-1916) , and its role in making other more bitter or unpleasant medicines taste sweeter (Stephenson 1834).
 
