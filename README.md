@@ -63,15 +63,13 @@
 3 paragraph
 <param ve-image
        fit="contain"
-       url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
-<!--x, y, w, h / African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
-Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600-->
+       url=""> 
 
 4 paragraph
 <param ve-image
        url="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/330217.jpg"> 
 <!--x, y, w, h / African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
-Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600-->
+Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600; "http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg" -->
 
 ### Cookbooks
 Paragraph 1: Tamarind has been an economic and culinary crop of value for centuries.
