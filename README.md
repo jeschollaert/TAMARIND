@@ -16,8 +16,8 @@
 1 paragraph
 <param ve-image 
        fit="contain"
-       url="http://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_009033_fullsize.jpg"> 
-<!-- image credit: Tamarindus indica illustration - Tamarindus indica, copy of an illustration commissioned by William Roxburgh, watercolour on paper, by unknown Indian Artist, 19th century., Unknown Indian artist -->
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5f/%28Tamarindus_indica%2CL.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"> 
+<!-- image credit: (Tamarindus indica,L) José Joaquim Freire; wikimedia https://www.brasilianaiconografica.art.br/obras/17958/tamarindus-indical -->
 <!-- originally had Spratt's Floral image here, but could not center a BHL image file in the iframe tag? https://www.archive.org/download/b24923400_0002/page/n95_w310--> 
 
 2 paragraph
