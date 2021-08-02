@@ -72,8 +72,8 @@ The seeds can be eaten after they are soaked to remove the seed coat. They can t
 
 <param ve-image
        fit="contain"
-       url="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg">
-       
+       url="">
+<!-- I removed the url http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg from the tag because it kept loading as an error message for me -- Ally, did you have the original file for this image and want to try again? --> 
 <!--love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: 	The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
 The pods are picked at various stages in the fruits’ life cycle. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.). 
