@@ -68,7 +68,7 @@ love the squirrel, but resolution isn't quite 2K -- can change if necessary. cre
 
 4 paragraph
 <param ve-image
-       url="http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg"> 
+       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD3_279-001.jpg"> 
 <!-- for some reason this link is not working: http://www.plantillustrations.org/ILLUSTRATIONS_HD_/330217.jpg 
 x, y, w, h / African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
 Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600; "http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg" -->
