@@ -72,7 +72,7 @@ The seeds can be eaten after they are soaked to remove the seed coat. They can t
 
 <param ve-image
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
+       url="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg">
        
 <!--love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: 	The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
