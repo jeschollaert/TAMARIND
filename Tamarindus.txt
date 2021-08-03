@@ -1,0 +1,12 @@
+source	source.label	source.image	target	target.label	target.label
+Q80235	Tamarindus indica L. (1753)			Taxonomyc synonyms	Tamarindus occidentalis Gaertn. (1791)
+Q80236	Tamarindus indica L. (1753)			Taxonomyc synonyms	Tamarindus umbrosa Salisb. (1796) 
+Q80237	Tamarindus indica L. (1753)			Taxonomyc synonyms	Tamarindus officinalis Hook. (1851) 
+Q80238	Tamarindus indica L. (1753)			Taxonomyc synonyms	Tamarindus somalensis Mattei (1908) 
+Q80239	Tamarindus indica L. (1753)			Taxonomyc synonyms	Tamarindus erythraeus Mattei (1908) 
+Q80240	Tamarindus indica L. (1753)			Vernacular names	Tamarind
+Q80241	Tamarindus indica L. (1753)			Vernacular names	Manhan 
+Q80242	Tamarindus indica L. (1753)			Vernacular names	Tamarindo
+Q80243	Tamarindus indica L. (1753)			Vernacular names	Amli
+Q80244	Tamarindus indica L. (1753)			Vernacular names	Dakhar
+Q80245	Tamarindus indica L. (1753)			Vernacular names	Hamer
