@@ -10,7 +10,8 @@
 
 ### Introduction: A Sturdy Contradiction (title in progress) 
 
-1 paragraph goes here 
+1 paragraph goes here
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/data/heliconia_network_interactions.tsv" center="Tamarindus indica">
 
 ### A Tree of Many Names
 1 paragraph
