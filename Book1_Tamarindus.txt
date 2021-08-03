@@ -1,0 +1,7 @@
+source	source.label	target.label
+Q80235	Tamarindus indica	Tamarindus occidentalis
+Q80236	Tamarindus indica	Tamarindus umbrosa
+Q80237	Tamarindus indica	Tamarindus officinalis
+Q80238	Tamarindus indica	Tamarindus somalensis
+Q80239	Tamarindus indica	Tamarindus erythraeus
+Q80240	Tamarindus indica	
