@@ -41,18 +41,18 @@
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Five_Egyptian_trees_with_fruit%2C_including_the_tamarind%2C_mulb_Wellcome_V0043170.jpg">
     <!--Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab. Line engraving, c. 1676.; https://commons.wikimedia.org/wiki/File:Five_Egyptian_trees_with_fruit,_including_the_tamarind,_mulb_Wellcome_V0043170.jpg -->
 
+### Leaves 
+1 paragraph
+<param ve-image
+       url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
+<!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
+
 ### Seeds 
 1 paragraph 
 <param ve-image
        url="https://usdawatercolors.nal.usda.gov/pom/catalog.xhtml?id=POM00000276&start=0&searchText=tamarind&searchField=Common+Name&sortField=&authorFacet=Newton%2C+Amanda+Almira%2C+ca.+1860-1943"> 
 <!-- we might have to find another way to get these images from plant illustration -- I keep getting errors from these image links http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg 
 love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
-
-### Leaves 
-1 paragraph
-<param ve-image
-       url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
-<!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
 ### Pulp of the Pods 
 1 paragraph 
