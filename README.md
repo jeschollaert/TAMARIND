@@ -11,7 +11,7 @@
 ### Introduction: A Sturdy Contradiction (title in progress) 
 
 1 paragraph goes her
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarindus.tsv" center="Tamarindus indica L. (1753)">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarindus2.tsv" center="Tamarindus indica L. (1753)">
 
 ### A Tree of Many Names
 1 paragraph
