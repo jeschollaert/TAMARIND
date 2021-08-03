@@ -1,0 +1,7 @@
+source	source.label	source.image	target	target.label
+Q80235	Tamarindus indica L. (1753)		Taxonomic synonyms	Tamarindus occidentalis Gaertn. (1791)
+Q80236	Tamarindus indica L. (1753)		Vernacular names	Tamarindus umbrosa Salisb. (1796) 
+Q80237	Tamarindus indica L. (1753)			Tamarindus officinalis Hook. (1851) 
+Q80238	Tamarindus indica L. (1753)			Tamarindus somalensis Mattei (1908) 
+Q80239	Tamarindus indica L. (1753)			Tamarindus erythraeus Mattei (1908) 
+				
