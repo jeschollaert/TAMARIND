@@ -21,7 +21,18 @@ From a taxonomic point of view, *T. indica*, first described as such by Carl Lin
 
 ### The Tamarind's Locale 
 The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the Fabaceae family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
-<param ve-map center="" zoom="6">
+<param ve-map 
+       time-dimension
+       time-interval="1780/"
+       duration="P500Y"
+       basemap="Esri_WorldGrayCanvas"
+       max-zoom="4"
+       date-format="YYYY"
+       fps="4">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_amrica.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_seasia.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_middleeast.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_africa.json">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the 12th century, though the oldest dated tree is 400 years old. 
 <param ve-image label="Tamarind Tree" url="c13654-53.jpg">
