@@ -34,8 +34,8 @@ Tamarind’s resilience has made it a central part of herbal medicine practices 
 
 Tracing the appearance of the tamarind tree’s commonly-used parts across materia medica, travelogues, and cookbooks, as we do throughout, is one means to track the circulation of traditional herbal Ayurvedic medicinal knowledge through the peak of colonial expansion, call attention to the colonial economic interest in *T. indica*, and foreground the diverse religious and culinary cultures that the plant sustains. 
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Five_Egyptian_trees_with_fruit%2C_including_the_tamarind%2C_mulb_Wellcome_V0043170.jpg">
-    <!--Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab. Line engraving, c. 1676.; https://commons.wikimedia.org/wiki/File:Five_Egyptian_trees_with_fruit,_including_the_tamarind,_mulb_Wellcome_V0043170.jpg -->
+       url="https://upload.wikimedia.org/wikipedia/commons/2/29/Naturalis_Biodiversity_Center_-_L.0939530_-_Bernecker%2C_A._-_Tamarindus_indica_Linnaeus_-_Artwork.jpeg">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons (Nagendra 403). In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing. 
@@ -49,8 +49,6 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
 ### Seeds and Pods
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
 <param ve-image url="pod.jpg"> 
-
-love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
 ### Pulp
 Tamarind pulp makes up roughly 30-50% of a ripe fruit (de Caluwe 57). The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
