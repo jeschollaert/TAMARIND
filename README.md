@@ -46,14 +46,13 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
        url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
-### Seeds 
+### Seeds and Pods
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
-<param ve-image
-       url=> 
+<param ve-image url="pod.jpg"> 
 
 love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
-### Pods
+### Pulp
 Tamarind pulp makes up roughly 30-50% of a ripe fruit (de Caluwe 57). The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
 
 One immensely popular refreshing drink sold everywhere from restaurants to markets—tamarind water—is made when pulp is added to water and sweetened. The Mexican soft drink brand Jarritos sells a tamarind-flavored option and a quick Youtube search reveals dozens of how-to videos for making these beverages at home.
