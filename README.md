@@ -42,7 +42,7 @@ In its mature state, the tamarind tree’s vast crown is a place of refuge. Beca
 
 The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, can be used as a dye, and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
 
-<param ve-image url="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?id=b29353403&itemPath=%2F8%2Fitems%2Fb29353403&server=ia801609.us.archive.org&page=n34_w320">
+<param ve-image url="Hooker.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
 ### Seeds and Pods
