@@ -26,6 +26,7 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
        time-interval="1780/"
        duration="P500Y"
        basemap="Esri_WorldGrayCanvas"
+       zoom="2"
        max-zoom="4"
        date-format="YYYY"
        fps="4">
