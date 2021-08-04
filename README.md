@@ -37,7 +37,7 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Five_Egyptian_trees_with_fruit%2C_including_the_tamarind%2C_mulb_Wellcome_V0043170.jpg">
     <!--Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab. Line engraving, c. 1676.; https://commons.wikimedia.org/wiki/File:Five_Egyptian_trees_with_fruit,_including_the_tamarind,_mulb_Wellcome_V0043170.jpg -->
 
-## Leaves 
+### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons (Nagendra 403). In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing. 
 
 The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, can be used as a dye, and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
@@ -46,14 +46,14 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
        url="http://d2seqvvyy3b8p2.cloudfront.net/4da66e3ff3e11a096761879c96542812.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
-## Seeds 
+### Seeds 
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
 <param ve-image
        url="https://usdawatercolors.nal.usda.gov/pom/catalog.xhtml?id=POM00000276&start=0&searchText=tamarind&searchField=Common+Name&sortField=&authorFacet=Newton%2C+Amanda+Almira%2C+ca.+1860-1943"> 
 <!-- we might have to find another way to get these images from plant illustration -- I keep getting errors from these image links http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg 
 love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
-## Pods
+### Pods
 Tamarind pulp makes up roughly 30-50% of a ripe fruit (de Caluwe 57). The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
 
 One immensely popular refreshing drink sold everywhere from restaurants to markets—tamarind water—is made when pulp is added to water and sweetened. The Mexican soft drink brand Jarritos sells a tamarind-flavored option and a quick Youtube search reveals dozens of how-to videos for making these beverages at home.
