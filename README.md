@@ -24,7 +24,7 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
 <param ve-map center="" zoom="6">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the 12th century, though the oldest dated tree is 400 years old. 
-<param ve-image label= "Tamarind Tree" url="c13654-53"
+<param ve-image label="Tamarind Tree" url="c13654-53.jpg">
 
 ### From Canopy to Pod: Tamarind’s Medicinal and Culinary Uses
 Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form (de Caluwe et al 82). Tamarind fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit” (de Caluwe et al 58). The acid’s sweet-sour flavoring makes it a valuable ingredient for a wide variety of dishes. Moreover, as French botanist Joseph de Tournefort conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a “purging medicine” (Bacon 1680s-1739), a laxative (Stephenson 1834), an aid in facial paralysis (Susruta transl. Bhishagratna 1907-1916), and a flavoring to make more bitter or unpleasant medicines taste sweeter (Stephenson 1834). 
