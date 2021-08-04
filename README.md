@@ -49,8 +49,8 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
 ### Seeds 
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
 <param ve-image
-       url="https://usdawatercolors.nal.usda.gov/pom/catalog.xhtml?id=POM00000276&start=0&searchText=tamarind&searchField=Common+Name&sortField=&authorFacet=Newton%2C+Amanda+Almira%2C+ca.+1860-1943"> 
-<!-- we might have to find another way to get these images from plant illustration -- I keep getting errors from these image links http://www.plantillustrations.org/ILLUSTRATIONS_HD_/335674.jpg 
+       url=> 
+
 love the squirrel, but resolution isn't quite 2K -- can change if necessary. credit: The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree, Oriental Memoirs, Vol. III, by James Forbes ,1812-13. Drawn and painted in Bombay around 1779. https://commons.wikimedia.org/wiki/File:SquirrelTamarind.jpg --> 
 
 ### Pods
