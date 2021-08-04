@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
-       title="TAMARIND" 
+       title="Tamarind: A Sturdy Contradiction" 
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
@@ -8,7 +8,7 @@
        layout="vertical">
 <!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG -->
 
-### Introduction: A Sturdy Contradiction
+### Introduction
 The grand and imposing hard-wooded tree *Tamarindus indica*, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, and a thirst-quencher that is drought tolerant. And while the tree has been documented across historical and literary genres for millenia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BC, leading some to argue it is indigenous to the region (Nagendra). The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates. This sprawling but rooted mobility exemplifies the sturdy contradiction that is tamarind’s long history, which extends almost beyond the reaches of the earliest written records. 
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/KITLV_40548_-_Kassian_C%C3%A9phas_-_Street_with_both_sides_tamarind_trees_at_Yogyakarta_-_1901-07.jpg/1600px-KITLV_40548_-_Kassian_C%C3%A9phas_-_Street_with_both_sides_tamarind_trees_at_Yogyakarta_-_1901-07.jpg" label="Street Lined with Tamarind Trees in Yogyakarta" attribution="Kassian Céphas, 1901" license="Public domain">
 <param ve-compare url="https://iiif.wellcomecollection.org/image/V0043170/full/1338%2C/0/default.jpg" label="Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab" attribution="Olfert Dapper, 1676" license="Public domain">
@@ -24,6 +24,8 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
 <param ve-map center="" zoom="6">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the 12th century, though the oldest dated tree is 400 years old. 
+<param ve-image
+       url="https://imagesonline.bl.uk/cdn/britishlibrary/previews/108/82a898d94eb5c57c8a95425c9996a92a/35/be43875410575e60b5e66f503e0d8063/32143.jpg">
 <!-- British Library, Mughal style tamarind tree-->
 
 ### From Canopy to Pod: Tamarind’s Medicinal and Culinary Uses
