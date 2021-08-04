@@ -41,7 +41,6 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons (Nagendra 403). In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing. 
 
 The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, can be used as a dye, and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
-
 <param ve-image url="Hooker.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
