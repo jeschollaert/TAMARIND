@@ -39,10 +39,10 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons (Nagendra 403). In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing. 
-
-The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, can be used as a dye, and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
 <param ve-image url="Hooker.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
+
+The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, can be used as a dye, and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
 
 ### Seeds and Pods
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
@@ -67,14 +67,14 @@ Similarly, Mrs. A.C. Carmichael, a Scottish migrant to the British West Indies a
 x, y, w, h / African Baobab Trees, a large Tamarind, the God Aiyanar and his two Wives - Oil painting of the Baobab trees.The god and his wives are supposed to take a ride every night,  leaving good gifts at the houses of all who give them earthenware horses. The natives of India, it is stated by Drury, have a prejudice against sleeping under
 Andrew McRobb, Digital Image © Board of Trustees, RBG Kew / image height: 1022 / image width: 1600; "http://d2seqvvyy3b8p2.cloudfront.net/6507d7339794a47738c4945a1fd37a4b.jpg" -->
 
-### Cookbooks
+### Cooking & Empire: Tamarind Recipes
 During or following their [time/stay] in the British colonies, white women colonists like Mrs. Carmichael would often feature tamarind in English-language colonial cookbooks. Examples like Flora Steel and Grace Gardiner’s 1909 *The complete Indian housekeeper & cook: the duties of mistress and servants, the management of the house, and practical recipes for cooking in all its branches* is dedicated “To the English girls to whom fate may assign the task of being house-mothers in our Eastern Empire” (##). Here, culinary knowledge of tamarind is weaponized by British colonists to help train “fate[d]” future women to better work in service of empire. 
-
-But just as tamarind has been a tool of empire in colonial kitchens, it’s also been used by the people displaced by colonial regimes as an avenue to create community. Hawa Hassan and Julia Turshen’s cookbook *In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries that Touch the Indian Ocean* (2020) features elder women’s recipes through the lens of their larger communities. The South African section focused on the Cape Malay community, a community whose legacy originates [with/in] the enslaved Indonesians forcibly brought to South Africa by the Dutch East India Co, features tamarind most prominently (195). The grandmothers share a recipe for “Denningvleis,” a sweet and sour lamb stew. [Final sentence here?].
 <param ve-iframe
        src="https://archive.org/embed/b21528640/page/158/">
 
-### 
+But just as tamarind has been a tool of empire in colonial kitchens, it’s also been used by the people displaced by colonial regimes as an avenue to create community. Hawa Hassan and Julia Turshen’s cookbook *In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries that Touch the Indian Ocean* (2020) features elder women’s recipes through the lens of their larger communities. The South African section focused on the Cape Malay community, a community whose legacy originates [with/in] the enslaved Indonesians forcibly brought to South Africa by the Dutch East India Co, features tamarind most prominently (195). The grandmothers share a recipe for “Denningvleis,” a sweet and sour lamb stew. [Final sentence here?].
+
+### Conclusion
 Tamil writer Sundara Ramaswamy’s recently-translated 1966 novel *Oru Puliyamarathin Kadai*, (Tamarind History) begins “There is no road that does not end at the base of the tamarind tree.” Described as a sthala purna (place-legend or narrative of a place),the novel’s opening pages describe one village’s lone but vibrant tamarind tree alongside its various human-projected monikers -- silent witness, self-reliant, mother-tree, beacon of dignity -- before informing the reader that it was destroyed. As a narrative of the tamarind tree’s “living and dying”, the novel depicts the tamarind as both an ancient witness to and active participant in human movements, reminiscent of the tree’s uses in spreading and growing pods that quench thirst even in the driest of environments. The tamarind continues to be a sturdy contradiction, offering relief on the hottest of days, even into the present, as we continue to learn from the plant’s many complexities. 
 
 ### References
