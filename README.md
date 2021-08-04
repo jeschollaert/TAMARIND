@@ -79,6 +79,7 @@ But just as tamarind has been a tool of empire in colonial kitchens, it’s also
 
 ### Conclusion
 Tamil writer Sundara Ramaswamy’s recently-translated 1966 novel *Oru Puliyamarathin Kadai*, (Tamarind History) begins “There is no road that does not end at the base of the tamarind tree.” Described as a sthala purna (place-legend or narrative of a place),the novel’s opening pages describe one village’s lone but vibrant tamarind tree alongside its various human-projected monikers -- silent witness, self-reliant, mother-tree, beacon of dignity -- before informing the reader that it was destroyed. As a narrative of the tamarind tree’s “living and dying”, the novel depicts the tamarind as both an ancient witness to and active participant in human movements, reminiscent of the tree’s uses in spreading and growing pods that quench thirst even in the driest of environments. The tamarind continues to be a sturdy contradiction, offering relief on the hottest of days, even into the present, as we continue to learn from the plant’s many complexities. 
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/7/77/Drawing%2C_Indian_Tamarind_Trees%2C_Jamaica%2C_July_1865_%28CH_18191565%29.jpg">
 
 ### References
 
