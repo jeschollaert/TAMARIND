@@ -24,9 +24,9 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
 <param ve-map center="" zoom="6">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the 12th century, though the oldest dated tree is 400 years old. 
-<param ve-image
+<param ve-image fit= "contain" label= "Tamarind Tree"
        url="https://imagesonline.bl.uk/cdn/britishlibrary/previews/108/82a898d94eb5c57c8a95425c9996a92a/35/be43875410575e60b5e66f503e0d8063/32143.jpg">
-<!-- British Library, Mughal style tamarind tree-->
+<!--Right now this is linked to the image address online, not the jpeg that Ashley sent me-->
 
 ### From Canopy to Pod: Tamarind’s Medicinal and Culinary Uses
 Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form (de Caluwe et al 82). Tamarind fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit” (de Caluwe et al 58). The acid’s sweet-sour flavoring makes it a valuable ingredient for a wide variety of dishes. Moreover, as French botanist Joseph de Tournefort conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a “purging medicine” (Bacon 1680s-1739), a laxative (Stephenson 1834), an aid in facial paralysis (Susruta transl. Bhishagratna 1907-1916), and a flavoring to make more bitter or unpleasant medicines taste sweeter (Stephenson 1834). 
@@ -59,9 +59,7 @@ love the squirrel, but resolution isn't quite 2K -- can change if necessary. cre
 Tamarind pulp makes up roughly 30-50% of a ripe fruit (de Caluwe 57). The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
 
 One immensely popular refreshing drink sold everywhere from restaurants to markets—tamarind water—is made when pulp is added to water and sweetened. The Mexican soft drink brand Jarritos sells a tamarind-flavored option and a quick Youtube search reveals dozens of how-to videos for making these beverages at home.
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/61/69_-_IMG_20160410_180814.jpg">
-      <!-- image credit: Tamarind juice, 10 April 2016, 18:08:18, Susan Slater, Taken at Asia SuperStore, Shinjuku, Japan (アジアスーパースト, 新宿) - permission received-->
+<param ve-video id="https://youtu.be/pXtKAmhKdpI">
       
 Tamarind water has been around since at least the late medieval period as an enjoyable beverage—and also a medicinal drink. Marco Polo, in his travel accounts, observes merchants being “force[d]...to swallow a stuff called Tamarindi, mixed in sea-water” that results in “violent purging” (2nd ed., ii. 383.). A few centuries later, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his *Theatrum botanicum* (1640): “it doth exceedingly helpe to assuage the thirst, if an ounce there-of be dissolved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.”
 <param ve-image
