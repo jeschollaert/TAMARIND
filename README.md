@@ -16,7 +16,7 @@ The grand and imposing hard-wooded tree <span eid="Q80235">*Tamarindus indica* L
 
 ### A Tree of Many Names
 From a taxonomic point of view, *T. indica*, first described as such by <span eid="Q1043">Carl Linnaeus</span> in <span eid="Q849308">*Species plantarum* (1753)</span> t1: 34, is considered the only species of the Tamarindus <span eid="Q34740">genus</span>. This has not always been the species’ name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the genus to contain different species. Over the course of the 17th and 18th centuries, *T. indica* acquired six synonyms, with *Tamarindus occidentalis Gaertn.*, or the “West Indian species,” recurring most often in the botanical literature. Comparably, the tamarind tree has garnered a host of colloquial names across the globe[^ref2]. In fact, *T. indica* derives from the Arabic *tamar-al-hindi*, or the date of India, so named after tamarind pulp’s date-like color and texture. 
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Book1_Tamarindus.tsv" center="Tamarindus indica">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarindus2.tsv" center="Tamarindus indica L. (1753)">
 <!--visual of tamarindus occidentalis; Tamarindus occidentalis Gaertn. (1791) https://www.biodiversitylibrary.org/page/37208043#page/364/mode/1up-->
 
 ### The Tamarind's Locale 
@@ -101,7 +101,7 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref4]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
 
-[^ref5]: Harini Nagendra, and Seema Mundoli,  “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Random House, 2019), 73-85.
+[^ref5]: Harini Nagendra, and Seema Mundoli,  “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Random House, 2019), 73-85. 
 
 
 
