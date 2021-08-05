@@ -65,6 +65,9 @@ While the tamarind seeds may not be as manipulable as the pulp (detailed below),
 
 ### Pulp
 Tamarind pulp makes up roughly 30-50% of a ripe fruit (de Caluwe 57). The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
+<param ve-image fit="contain" label="Tamarind pods and packaged pulp" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Tamarind_%28marketed%29.jpg">
+<param ve-image fit="contain" label="Jarred tamarind paste" attribution="Anieyo" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/0/07/Tamarind_paste.jpg">
+<param ve-image fit="contain" label="Puliyogare (Tamarind Rice), a popular South Indian dish" attribution="Manjeshwari poet mysore" license="CC BY-SA 4.0"  url="https://upload.wikimedia.org/wikipedia/commons/9/95/Puliyogare_Or_Tamarind_Rice_With_Curds_and_Sago_Papad.jpg">
 
 One immensely popular refreshing drink sold everywhere from restaurants to markets—tamarind water—is made when pulp is added to water and sweetened. The Mexican soft drink brand Jarritos sells a tamarind-flavored option and a quick Youtube search reveals dozens of how-to videos for making these beverages at home.
 <param ve-video id="pXtKAmhKdpI">
