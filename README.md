@@ -23,8 +23,8 @@ From a taxonomic point of view, *T. indica*, first described as such by <span ei
 The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes[^ref3]. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
 <param ve-map 
        time-dimension
-       time-interval="1780/"
-       duration="P500Y"
+       time-interval="-008000/"
+       duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
        max-zoom="4"
        date-format="YYYY"
@@ -32,7 +32,7 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_africa2.tsv">
 <param ve-map-layer geojson url="">
 <param ve-map-layer geojson url="">
-<param ve-map-layer geojson url="">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_america2.tsv">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, [Nallur Amarai](https://theprint.in/pageturner/excerpt/babur-to-wwii-to-sonia-gandhi-all-connected-through-the-tamarind-tree-in-india/247670/), located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the <span eid="Q151148">Chola dynasty</span> in the 12th century, though the oldest dated tree is 400 years old. 
 <param ve-image fit="contain" label="Tamarind Tree" url="c13654-53.jpg">
