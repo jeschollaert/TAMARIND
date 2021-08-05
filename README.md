@@ -23,7 +23,7 @@ From a taxonomic point of view, *T. indica*, first described as such by <span ei
 The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes[^ref3]. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
 <param ve-map 
        time-dimension
-       time-interval="-008000/"
+       time-interval="-001000/"
        duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
        max-zoom="4"
