@@ -1,0 +1,12 @@
+source	source.label	target	target.label	edge
+	Tamarindus occidentalis		Tamarindus indica	
+	Tamarindus occidentalis		TAXONOMIC SYNONYM	of Tamarindus indica is a 
+	Tamarindus umbrosa		Tamarindus indica	
+	Tamarindus umbrosa		TAXONOMIC SYNONYM	currently Tamarindus indica
+	Tamarindus officinalis		Tamarindus indica	
+	Tamarindus officinalis		TAXONOMIC SYNONYM	currently Tamarindus indica
+	Tamarindus somalensis		Tamarindus indica	
+	Tamarindus somalensis		TAXONOMIC SYNONYM	currently Tamarindus indica
+	Tamarindus erythraeus		Tamarindus indica	
+	Tamarindus erythraeus		TAXONOMIC SYNONYM	currently Tamarindus indica
+			VERNACULAR NAMES	
