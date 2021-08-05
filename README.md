@@ -28,7 +28,7 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
        basemap="Esri_WorldGrayCanvas"
        max-zoom="4"
        date-format="YYYY"
-       fps="4">
+       fps="0.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/final_maptest.json">
 
 
