@@ -47,7 +47,7 @@ In addition, tamarind is mentioned in traditional Sanskrit literature, incorpora
 <param ve-knightlab-timeline source="12v78oD74K_9d8_2Cs3DlEKoWdAy4ctB_lLUB2gYeiFk" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 
 Tracing the appearance of the tamarind tree’s commonly-used parts across <span eid="Q1291275">materia medica</span>, travelogues, and cookbooks, as we do throughout, is one means to track the circulation of traditional herbal Ayurvedic medicinal knowledge through the peak of colonial expansion, call attention to the colonial economic interest in *T. indica*, and foreground the diverse religious and culinary cultures that the plant sustains. 
-<param ve-image
+<param ve-image fit="contain" label="Tamarindus indica, L., A. Bernecker, watercolor" attribution="Naturalis Biodiversity Center" license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/2/29/Naturalis_Biodiversity_Center_-_L.0939530_-_Bernecker%2C_A._-_Tamarindus_indica_Linnaeus_-_Artwork.jpeg">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 
