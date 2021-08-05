@@ -93,7 +93,7 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 <param ve-image region="144,103,3895,3488" url="https://upload.wikimedia.org/wikipedia/commons/7/77/Drawing%2C_Indian_Tamarind_Trees%2C_Jamaica%2C_July_1865_%28CH_18191565%29.jpg">
 
 ### References
-[^ref1]: Boukary O. Diallo, Doyle Mckey, Hélène I. Joly, and Martine Hossaert-McKey, “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
 
 [^ref2]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
 
