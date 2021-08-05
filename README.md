@@ -41,11 +41,11 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across <span
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 
 ### Leaves 
-In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons (Nagendra 403). In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind <span eid="Q811571">tree deity</span> who offers fruit as a blessing. 
+In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons[^ref5]. In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind <span eid="Q811571">tree deity</span> who offers fruit as a blessing. 
 <param ve-image url="Hooker.jpg">
 <!--Hooker’s etching from Himalayan Journal (1848); Kew title: Old Tamarind trees. Feb. 19. 1848. - Etching for Hooker's Himalayan Journal.-->
 
-The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, [can be used as a dye](https://www.sciencedirect.com/science/article/pii/S131961031100202X), and they can be dried or boiled for use as poultices to relieve swelling (de Caluwe 71, 56, 76). 
+The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, [can be used as a dye](https://www.sciencedirect.com/science/article/pii/S131961031100202X), and they can be dried or boiled for use as poultices to relieve swelling[^ref4]. 
 
 ### Seeds and Pods
 While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint <span eid="Q1192519">Abu Said</span>, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry (de Caluew 54). 
@@ -89,6 +89,8 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 [^ref3]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, https://www.iucnredlist.org/species/62020997/62020999
 
 [^ref4]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+
+[^ref5]: Harini Nagendra, and Seema Mundoli,  “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Random House, 2019), 73-85.
 
 
 
