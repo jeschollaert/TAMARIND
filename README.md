@@ -20,7 +20,7 @@ From a taxonomic point of view, *T. indica*, first described as such by <span ei
 <!--visual of tamarindus occidentalis; Tamarindus occidentalis Gaertn. (1791) https://www.biodiversitylibrary.org/page/37208043#page/364/mode/1up-->
 
 ### The Tamarind's Locale 
-The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
+The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes[^ref3]. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
 <param ve-map center="" zoom="6">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, [Nallur Amarai](https://theprint.in/pageturner/excerpt/babur-to-wwii-to-sonia-gandhi-all-connected-through-the-tamarind-tree-in-india/247670/), located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the <span eid="Q151148">Chola dynasty</span> in the 12th century, though the oldest dated tree is 400 years old. 
@@ -82,9 +82,11 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 <param ve-image region="144,103,3895,3488" url="https://upload.wikimedia.org/wikipedia/commons/7/77/Drawing%2C_Indian_Tamarind_Trees%2C_Jamaica%2C_July_1865_%28CH_18191565%29.jpg">
 
 ### References
-[^ref1]: Boukary O. Diallo, Doyle Mckey, Hélène I. Joly, and Martine Hossaert-McKey, “Breeding system and pollination biology of the semi-domesticated fruit tree, Tamarindus indica L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources, African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref1]: Boukary O. Diallo, Doyle Mckey, Hélène I. Joly, and Martine Hossaert-McKey, “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
 
-[^ref2]: Salim Azad, “Tamarindo -Tamarindus indica”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
+[^ref2]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
+
+[^ref3]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, https://www.iucnredlist.org/species/62020997/62020999
 
 
 
