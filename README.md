@@ -30,7 +30,7 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
        date-format="YYYY"
        fps="4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_africa2.tsv">
-<param ve-map-layer geojson url="">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_middleast2.tsv">
 <param ve-map-layer geojson url="">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_america2.tsv">
 
