@@ -15,13 +15,24 @@ The grand and imposing hard-wooded tree <span eid="Q80235">*Tamarindus indica* L
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/8c/AMH-7001-KB_Church_service_beneath_a_tamarind_tree.jpg" label="Church service beneath a tamarind tree" attribution="Johannes Janssonius Waasbergen, 1672" license="Public domain">
 
 ### A Tree of Many Names
-From a taxonomic point of view, *T. indica*, first described as such by <span eid="Q1043">Carl Linnaeus</span> in <span eid="Q849308">*Species plantarum*</span> (1753) t1: 34, is considered the only species of the Tamarindus <span eid="Q34740">genus</span>. This has not always been the species’ name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the genus to contain different species. Over the course of the 17th and 18th centuries, *T. indica* acquired six synonyms, with *Tamarindus occidentalis Gaertn.*, or the “West Indian species,” recurring most often in the botanical literature. Comparably, the tamarind tree has garnered a host of colloquial names across the globe[^ref2]. In fact, *T. indica* derives from the Arabic *tamar-al-hindi*, or the date of India, so named after tamarind pulp’s date-like color and texture. 
+From a taxonomic point of view, *T. indica*, first described as such by <span eid="Q1043">Carl Linnaeus</span> in <span eid="Q849308">*Species plantarum* (1753) t1: 34</span>, is considered the only species of the Tamarindus <span eid="Q34740">genus</span>. This has not always been the species’ name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the genus to contain different species. Over the course of the 17th and 18th centuries, *T. indica* acquired six synonyms, with *Tamarindus occidentalis Gaertn.*, or the “West Indian species,” recurring most often in the botanical literature. Comparably, the tamarind tree has garnered a host of colloquial names across the globe[^ref2]. In fact, *T. indica* derives from the Arabic *tamar-al-hindi*, or the date of India, so named after tamarind pulp’s date-like color and texture. 
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarindus2.tsv" center="Tamarindus indica L. (1753)">
 <!--visual of tamarindus occidentalis; Tamarindus occidentalis Gaertn. (1791) https://www.biodiversitylibrary.org/page/37208043#page/364/mode/1up-->
 
 ### The Tamarind's Locale 
 The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes[^ref3]. These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
-<param ve-map center="" zoom="6">
+<param ve-map 
+       time-dimension
+       time-interval="1780/"
+       duration="P500Y"
+       basemap="Esri_WorldGrayCanvas"
+       max-zoom="4"
+       date-format="YYYY"
+       fps="4">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_amrica.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_seasia.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_middleeast.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_africa.json">
 
 Geographically, tamarind can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, [Nallur Amarai](https://theprint.in/pageturner/excerpt/babur-to-wwii-to-sonia-gandhi-all-connected-through-the-tamarind-tree-in-india/247670/), located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the <span eid="Q151148">Chola dynasty</span> in the 12th century, though the oldest dated tree is 400 years old. 
 <param ve-image fit="contain" label="Tamarind Tree" url="c13654-53.jpg">
