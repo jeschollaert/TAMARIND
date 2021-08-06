@@ -26,10 +26,10 @@ The tamarind tree, a non-endangered semi-evergreen species, is easily recognizab
        time-interval="-001000/"
        duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
-       zoom="2"
+       zoom="1.5"
        max-zoom="4"
        date-format="YYYY"
-       fps="0.5">
+       fps="1">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarind_map.json">
 
 Geographically, <span data-mouseover-image-zoomto="1934,5179,1968,1762">tamarind</span> can be found in 54 countries that lie within the plant’s historical circulation routes from Africa through the Middle East into India and down to Southeast Asia, as well as from Western European settler colonists who introduced the plant to South America and the West Indies. Today, India is the world’s largest tamarind producer. Orchards are located across the country, with one of the oldest groves, [Nallur Amarai](https://theprint.in/pageturner/excerpt/babur-to-wwii-to-sonia-gandhi-all-connected-through-the-tamarind-tree-in-india/247670/), located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the <span eid="Q151148">Chola dynasty</span> in the 12th century, though the oldest dated tree is 400 years old. 
