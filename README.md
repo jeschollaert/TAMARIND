@@ -105,8 +105,8 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref6]: "Kandro Net", accessed July 2021, http://www.khandro.net/nature_trees.htm
 
-[^ref7]: (Dole & Walker XXIX)
+[^ref7]: Nathan H. Dole, and Belle M. Walker, The Persian Poets (California: Crowell, 1901).
 
-[^ref8]: (Morton)
+[^ref8]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
 
 [^ref9]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcuta: Thacker, Spink & Co., 1877).
