@@ -52,7 +52,7 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across <span
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 
 ### Leaves 
-In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons[^ref5]. In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind <span eid="Q811571">tree deity</span> who offers fruit as a blessing. 
+In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons[^ref5]. In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind <span eid="Q811571">tree deity</span> who offers fruit as a blessing[^ref6]. 
 <param ve-image region="0,2603,8200,7343" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="Hooker.jpg">
 
 The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup, or used as the base for specific meals like the Indian dish chindar (Nagendra; Azad). Outside of the kitchen, the leaves, which contain tannins, [can be used as a dye](https://www.sciencedirect.com/science/article/pii/S131961031100202X). [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) is one tradition that makes use of the tamarind seed's natural brown hue to dye the background of paintings. In a medicinal context, the leaves can be dried or boiled for use as poultices to relieve swelling[^ref4]. 
@@ -103,5 +103,8 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref5]: Harini Nagendra, and Seema Mundoli,  “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Random House, 2019), 73-85. 
 
+[^ref6]: "Kandro Net", accessed July 2021, http://www.khandro.net/nature_trees.htm
+
+[^ref7]: 
 
 
