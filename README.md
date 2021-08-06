@@ -20,7 +20,7 @@ From a taxonomic point of view, *T. indica*, first described as such by <span ei
 <!--visual of tamarindus occidentalis; Tamarindus occidentalis Gaertn. (1791) https://www.biodiversitylibrary.org/page/37208043#page/364/mode/1up-->
 
 ### The Tamarind's Locale 
-The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. As a member of the <span eid="Q44448">Fabaceae</span> family, it is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes.[^ref3] These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation and endure aerosol salt from windy coastal areas.
+The tamarind tree, a non-endangered semi-evergreen species, is easily recognizable for its beaded-necklace shaped pod and its pinnately lobed leaves that group to form a dense and bushy head of branches. It is best suited to the region between 23º26’N and 23º26’S, an area characterized by seasonal dry forest, tropical seasonal forest, and savanna biomes.[^ref3] These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation, as a member of the <span eid="Q44448">Fabaceae</span> family, and endure aerosol salt from windy coastal areas.
 <param ve-map 
        time-dimension
        time-interval="-001000/"
@@ -59,11 +59,11 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
 <param ve-image fit="contain" label="Idital-Soura Wall Painting" attribution="Hpsatapathy" license="CC BY-NC 3.0" url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Idital_Wall_Painting.jpg">
 
 ### Seeds and Pods
-While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint <span eid="Q1192519">Abu Said</span>, they paid good sums to obtain seeds from the tamarind tree he sat beneath (Dole & Walker XXIX). Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground (Nagendra; Azad). In Thailand, the ground seeds are used as a coffee substitute (Morton). In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes (Dutt 1870). In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry.[^ref4] 
+While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint <span eid="Q1192519">Abu Said</span>, they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref7] Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref2][^ref5] In Thailand, the ground seeds are used as a coffee substitute.[^ref8] In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes.[^ref9] In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry.[^ref4] 
 <param ve-image fit="contain" label="Tamarind pod, Amanda Almira Newton for the US Department of Agriculture, watercolor, 1908" author="Amanda Almira Newton" attribution="U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD 20705" license="public domain" url="pod.jpg"> 
 
 ### Pulp
-Tamarind pulp makes up roughly 30-50% of a ripe fruit.[^ref4] The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes (Morton). The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks (Nagendra; Azad; Caluwé et al.).
+Tamarind pulp makes up roughly 30-50% of a ripe fruit.[^ref4] The pods are picked at various stages in the fruits’ life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, or used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes.[^ref8] The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, and drinks.[^ref2][^ref4][^ref5]
 <param ve-image fit="contain" label="Tamarind pods and packaged pulp" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Tamarind_%28marketed%29.jpg">
 <param ve-image fit="contain" label="Jarred tamarind paste" attribution="Anieyo" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/0/07/Tamarind_paste.jpg">
 <param ve-image fit="contain" label="Puliyogare (Tamarind Rice), a popular South Indian dish" attribution="Manjeshwari poet mysore" license="CC BY-SA 4.0"  url="https://upload.wikimedia.org/wikipedia/commons/9/95/Puliyogare_Or_Tamarind_Rice_With_Curds_and_Sago_Papad.jpg">
@@ -105,6 +105,8 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref6]: "Kandro Net", accessed July 2021, http://www.khandro.net/nature_trees.htm
 
-[^ref7]: 
+[^ref7]: (Dole & Walker XXIX)
 
+[^ref8]: (Morton)
 
+[^ref9]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcuta: Thacker, Spink & Co., 1877).
