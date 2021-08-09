@@ -81,7 +81,7 @@ Similarly, Mrs. A.C. Carmichael, a Scottish migrant to the British West Indies a
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD3_279-001.jpg"> 
 
 ### Cooking & Empire: Tamarind Recipes
-During or following their [time/stay] in the British colonies, white women colonists like Mrs. Carmichael would often feature tamarind in English-language colonial cookbooks. Examples like Flora Steel and Grace Gardiner’s 1909 *The complete Indian housekeeper & cook: the duties of mistress and servants, the management of the house, and practical recipes for cooking in all its branches* is dedicated “To the English girls to whom fate may assign the task of being house-mothers in our Eastern Empire” (##). Here, culinary knowledge of tamarind is weaponized by British colonists to help train “fate[d]” future women to better work in service of empire. 
+During or following their time in the British colonies, white women colonists like Mrs. Carmichael would often feature tamarind in English-language colonial cookbooks. Examples like Flora Steel and Grace Gardiner’s 1909 *The complete Indian housekeeper & cook: the duties of mistress and servants, the management of the house, and practical recipes for cooking in all its branches* is dedicated “To the English girls to whom fate may assign the task of being house-mothers in our Eastern Empire.” Here, culinary knowledge of tamarind is weaponized by British colonists to help train “fate[d]” future women to better work in service of empire. 
 <param ve-iframe attribution="University of Leeds Library" license="public domain"
        src="https://archive.org/embed/b21528640/page/158/">
 
