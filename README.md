@@ -4,7 +4,7 @@
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
-       banner="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind./125,15,120,140/full/0/default.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind/125,15,120,140/full/0/default.jpg"
        layout="vertical">
 <!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG -->
 
