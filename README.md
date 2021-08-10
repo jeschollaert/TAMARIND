@@ -4,9 +4,9 @@
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg"
        layout="vertical">
-<!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG -->
+<!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG -->
 
 ### Introduction
 The grand and imposing hard-wooded tree <span eid="Q80235">*Tamarindus indica* L.</span>, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, and a thirst-quencher that is drought tolerant. And while the tree has been documented across historical and literary genres for millenia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BC, leading some to argue it is indigenous to the region.[^ref1] The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates. This sprawling but rooted mobility exemplifies the sturdy contradiction that is tamarind’s long history, which extends almost beyond the reaches of the earliest written records. 
