@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In Hindu mythology, the tamarind is sacred to Krishna, the eighth incarnation of Vishnu who, with Radha, enchant the world as the masculine and feminine primeval forms of God. According to legend, Krishna, after being separated from Radha, experienced an intense spiritual epiphany when sitting under a tamarind tree. The series of images featured here, all hand-painted in 17th-century India by various artists, illustrate Radha and Krishna in the company of dense foliage, including tamarind trees. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/8dbe2090847396a043b047c069ccb0ea7d279f9feca1d3ba0f256ac97bcc0eb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:99.10498046875,71.27900695800781,978.79638671875,972.6787567138672"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6e3250ee-ea21-4925-8675-032e079ac51c"
+  }
+]
