@@ -14,8 +14,8 @@ The grand and imposing hard-wooded tree <span eid="Q80235">*Tamarindus indica* L
 <param ve-compare url="https://iiif.wellcomecollection.org/image/V0043170/full/1338%2C/0/default.jpg" label="Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab" author="Olfert Dapper, 1676" attribution="Wellcome Trust, https://wellcome.org" license="CC BY-NC 4.0">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/8c/AMH-7001-KB_Church_service_beneath_a_tamarind_tree.jpg" label="Church service beneath a tamarind tree, 1672" author="Philippus Baldaeus" attribution="Koninklijke Bibliotheek" license="public domain">
 
-Paragraph 2
-<param ve-image 
+Paragraph on mythology
+<param ve-image fit="contain" label="Ye-nan-gyoung: Tamarind Tree, August 14–16, 1855" author="Captain Linneaus Tripe" attribution="Paula and Robert Hershkowiz, Courtesy National Gallery of Art, Washington" license="public domain"  url="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/2/17/1424194956317/f1d815c4-5c3e-487a-bb2c-aa6096c29186-2060x1558.jpeg?width=1010&quality=45&auto=format&fit=max&dpr=2&s=5296d74ace2a0b9604bad00f916b6baf">
 
 ### A Tree of Many Names
 From a taxonomic point of view, *T. indica*, first described as such by <span eid="Q1043">Carl Linnaeus</span> in <span eid="Q849308">*Species plantarum* (1753)</span> t1: 34, is considered the only species of the Tamarindus <span eid="Q34740">genus</span>. This has not always been the species’ name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the genus to contain different species. Over the course of the 17th and 18th centuries, *T. indica* acquired six synonyms, with *Tamarindus occidentalis Gaertn.*, or the “West Indian species,” recurring most often in the botanical literature. Comparably, the tamarind tree has garnered a host of colloquial names across the globe.[^ref2] In fact, *T. indica* derives from the Arabic *tamar-al-hindi*, or the date of India, so named after tamarind pulp’s date-like color and texture. 
