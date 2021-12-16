@@ -149,4 +149,4 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref15]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (*Tamarindus indica*) Seeds in Health and Nutrition”, in Nuts and Seeds in Health and Disease Prevention (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
 
-[^ref#16]: "Stawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021.  https://www.strawberybanke.org/artifact-of-the-week-2.cfm
+[^ref#16]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021.  https://www.strawberybanke.org/artifact-of-the-week-2.cfm
