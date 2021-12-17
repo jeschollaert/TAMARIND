@@ -123,7 +123,7 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref2]: “Tamarind – Herb of the Month (2020)”, The Herb Society of America Blog, accessed August 2021, https://herbsocietyblog.wordpress.com/tag/tamarind-legends/
 
-[^ref3]: Nanditha Krishna and M. Amirthalingam, Sacred Plants of India (India: Penguin Press, 2014)
+[^ref3]: Nanditha Krishna and M. Amirthalingam, Sacred Plants of India (India: Penguin Press, 2014).
 
 [^ref4]: “Tamarind tree”, Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021, http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx
 
@@ -151,23 +151,23 @@ Tamil writer <span eid="Q2893448">Sundara Ramaswamy’s</span> recently-translat
 
 [^ref16]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
 
-[^ref17]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcuta: Thacker, Spink & Co., 1877).
+[^ref17]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcutta: Thacker, Spink & Co., 1877).
 
-[^ref18]: [ref: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” *British Library Asian and African Studies Blog*, 17 February 2017. Accessed 16 December 2021. https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html]
+[^ref18]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” *British Library Asian and African Studies Blog*, 17 February 2017. Accessed 16 December 2021. https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html]
 
-[^ref19]: [ref: Asian Art Department, “Kammawaza manuscript, 20th century,” *Art Gallery of NSW*, 2016. Accessed 16 December 2021. https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about]
+[^ref19]: Asian Art Department, “Kammawaza manuscript, 20th century,” Art Gallery of NSW, 2016. Accessed 16 December 2021. https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about]
 
 [^ref20]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (*Tamarindus indica*) Seeds in Health and Nutrition”, in Nuts and Seeds in Health and Disease Prevention (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
 
 [^ref21]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021,  https://www.strawberybanke.org/artifact-of-the-week-2.cfm
 
-[^ref22]: Lizzie Collingham, "*Curry: A Tale of Cooks and Conquerors*", (Oxford: Oxford University Press, 2006), pg numbers specified in in-text citations
+[^ref22]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*, (Oxford: Oxford University Press, 2006).
 
-[^ref23]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India”, *Women’s History Review*, vol. 3, no. 4 (1994): 549-562.
+[^ref23]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India”, Women’s History Review 3, no 4 (1994): 549-562.
 
-[^ref24]: Chitra Deb, *Women of the Tagore Household*, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), pg numbers specified in in-text citations
+[^ref24]: Chitra Deb, Women of the Tagore Household, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010).
 
-[^ref25]: Ronojoy Sen, “Tagores we don’t know about,” *Times of India*, 8 May 2010. Accessed 15 December 2021.
+[^ref25]: Ronojoy Sen, “Tagores we don’t know about,” Times of India, 8 May 2010. Accessed 15 December 2021.
 
 
 
